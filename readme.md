@@ -5,7 +5,7 @@
   <h3 align="center">Pokedex by <a href="https://umpontoseis.com/">umpontoseis</a></h3>
  <br />
   <p align="center">
-     App para buscar pokemóns
+     App para buscar pokémons
        <br />
     <br />
     <a href="https://github.com/Lorenalgm/pokedex">Desafio</a>
@@ -21,7 +21,7 @@
 * [Techs](#techs)
 * [Como começar](#como-começar)
 * [Dicas](#dicas)  
-  * [Cores](#cores)
+  * [Dados](#dados)
   * [Modelo](#modelo)
   * [Imagens](#imagens)
   * [Icones](#icones)
@@ -32,7 +32,7 @@
 <a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
 
 # Desafio
-Seu desafio é criar um app para buscar pokemóns, filtrando por tipos, além de visualizar mais informações dos personagens.
+Seu desafio é criar um app para buscar pokémons, filtrando por tipos, além de visualizar mais informações dos personagens.
 
 ## Requisitos:
 - Criar uma tela inicial listando todos os pokemons<br>
@@ -54,16 +54,12 @@ Seu desafio é criar um app para buscar pokemóns, filtrando por tipos, além de
 
 # Dicas
 
-## Cores:
-Preto: #0C0B0B<br>
-Cinza: #0F0E0E<br>
-Branco: #B7B7B7<br>
-Verde: #046313<br>
-Azul: #044A7D<br>
-Amarelo: #725200<br>
+## Dados:
+Para listar os dados, você pode utilizar os dados na API da PokéApi, dá uma olhadinha na documentação: https://pokeapi.co/
 
 ## Modelo:
-O modelo final do app está disponível na pasta `./design`
+O modelo final do app está disponível na pasta `./design` e também no Figma da umpontoseis: 
+https://www.figma.com/file/THLxZSlOoUYMZrjFg0Kl1M/Pok%C3%A9dex?node-id=218%3A4647
 
 ## Icones
 Os ícones estão disponíveis na pasta `./assets/icons`
